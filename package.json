@@ -1,0 +1,12 @@
+{
+  "name": "vue-selector",
+  "version": "1.0.0",
+  "description": "Vue 多级选择器",
+  "main": "src/Selector.vue",
+  "scripts": {},
+  "author": "cenegd <cenegd@live.com>",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "vue": "^2.1.8"
+  }
+}
